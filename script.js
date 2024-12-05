@@ -2,7 +2,7 @@ function descargarContacto() {
     const vcardData = `BEGIN:VCARD
 VERSION:3.0
 FN:Mauricio Vallejo
-TEL:3006576752
+TEL:(+57)3006576752
 EMAIL: mercado@eurobelleza.com 
 NOTE: Commercial Manager
 END:VCARD`;
