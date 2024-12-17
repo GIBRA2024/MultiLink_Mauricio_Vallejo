@@ -4,7 +4,7 @@ VERSION:3.0
 FN:Mauricio Vallejo GEB
 TEL:+57 3006576752
 EMAIL: mercado@eurobelleza.com 
-NOTE: Commercial Manager
+NOTE:Sales and Marketing Manager
 END:VCARD`;
 
     const blob = new Blob([vcardData], { type: 'text/vcard' });
